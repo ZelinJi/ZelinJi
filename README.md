@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZelinJi.
+- 👋 Hi, I’m @Zelin Ji aka Edison.
 - 👀 I’m interested in resource allocation and reinforcement learning.
 - 🌱 I’m currently pursuing the PhD degree with Queen Mary University of London.
 - 📫 Email: z.ji@qmul.ac.uk or zelinji77@gmail.com.
